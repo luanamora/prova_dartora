@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351989952478",
+    "firebase_url": "https://provaapp-68f44.firebaseio.com",
+    "project_id": "provaapp-68f44",
+    "storage_bucket": "provaapp-68f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351989952478:android:fde4d38eac6d1700c4f74f",
+        "android_client_info": {
+          "package_name": "com.fag.prova_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351989952478-4g690fmb5kid5mp4s2tdlkf457dee3aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BCyqF7hrIkRQ2tYX_T5deKltINcqMwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351989952478-4g690fmb5kid5mp4s2tdlkf457dee3aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
